@@ -7,6 +7,6 @@ int main()
     printf("enter the second amount :");
     scanf("%d",&j);
     sum=i+j;
-    printf("%d",sum);
+    printf("sum=%d",sum);
     return 0;
 }
